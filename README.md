@@ -1,2 +1,2 @@
 # programa_Juan
-Contiene el programa que generó Juan H.
+Contiene los programas que generó Juan H.
